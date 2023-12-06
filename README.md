@@ -4,3 +4,4 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 For the purpose of the Code Academy training program.
 TESTTTTT
+QQQQQQ
